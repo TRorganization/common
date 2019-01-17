@@ -19,6 +19,6 @@
 ```
 ### git地址
 ```
- https://github.com/luoxiapeng/react-multi-page 
+ https://github.com/TRorganization/common 
 ```
 
