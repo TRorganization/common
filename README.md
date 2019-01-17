@@ -13,6 +13,9 @@
          |--vux_frame               vux错误解决方案    
      |--JS
          |--common.js               公共类库
+         |--check                   检查检验类
+         |--wxMethods               关于微信的公共方法
+              
      |--Ts
          |--TsCommon.js             Ts语法类库
          
