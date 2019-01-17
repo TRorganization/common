@@ -708,7 +708,7 @@ export function toggleClass(element, className) {
 }
 
 /**
- * 将url的参数转成对象形式
+ * 将url的参数转成Json形式
  * @param url
  * @returns {*}
  */
@@ -726,6 +726,11 @@ export function param2Obj(url) {
         '"}'
     )
 }
+/**
+ * param JSON格式化
+ * @param {Object} json
+ * @returns {String}  a=1&b=2&c=3
+ */
 export function param(json) {
     if (!json) return ''
     return cleanArray(

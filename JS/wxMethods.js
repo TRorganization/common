@@ -7,7 +7,7 @@
 import wx from 'weixin-js-sdk'
 Vue.prototype.wx=wx;
 /**
- * @goback 退出微信公纵号，退到首页
+ * @goback 退出微信公众号，退到首页
  * @param 
  */
 export const goback = () => {

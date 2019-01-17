@@ -60,4 +60,10 @@
                 probeType:3
                 });                    
         }  
+
+    方法二：
+    css 解决方案
+        *{
+            -webkit-overflow-scrolling: touch;
+        }
  ```
