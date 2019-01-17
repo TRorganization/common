@@ -4,6 +4,7 @@
   common
      |--css
          |--raset.css               基础样式
+         |--base.less               全局样式控制
      |--error
          |--react                   react错误解决方案
          |--vue                     vue错误解决方案
@@ -14,8 +15,9 @@
      |--JS
          |--common.js               公共类库
          |--check                   检查检验类
-         |--wxMethods               关于微信的公共方法
-              
+         |--require                 网络请求
+         |--systemMethods           语法类型的类库
+         |--wxMethods               关于微信的公共方法      
      |--Ts
          |--TsCommon.js             Ts语法类库
          
