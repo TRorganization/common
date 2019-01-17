@@ -4,11 +4,9 @@
 * vesion:1.0
 * */
 
-
-/**
- * @getdayTime 获取当天时间年月日
- * @returns {string} 218-01-01
- */
+/*
+* @getdayTime 获取当天时间年月日
+* */
 export const getdayTime = () => {
     var nowDate = new Date();
     var year = nowDate.getFullYear();
